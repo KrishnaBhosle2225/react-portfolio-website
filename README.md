@@ -1,1 +1,2 @@
-This is a portfolio website contains all information about my skills, tech-stack, projects and all.
+A portfolio website project is a digital platform that showcases a person's work, skills, and achievements in a visually appealing and interactive manner. 
+This project typically includes creating a homepage that provides an overview of the work, a navigation menu that directs visitors to different sections of the site, such as an about page, a portfolio page, and a contact page, and designing a portfolio page that features images, videos, or interactive elements that display the work in a visually appealing and engaging way. 
